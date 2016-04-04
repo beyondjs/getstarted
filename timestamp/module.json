@@ -1,0 +1,22 @@
+{
+  "page": {
+    "route": "/timestamp",
+    "dependencies": {
+      "require": {
+        "application/model": "model"
+      }
+    }
+  },
+  "code": {
+    "html": {
+      "files": [
+        "index.html"
+      ]
+    },
+    "js": {
+      "files": [
+        "index.js"
+      ]
+    }
+  }
+}

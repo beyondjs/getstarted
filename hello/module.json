@@ -1,0 +1,10 @@
+{
+  "page": "/hello",
+  "code": {
+    "js": {
+      "files": [
+        "index.js"
+      ]
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "page": {
+    "route": "/polymer",
+    "dependencies": {
+      "polymer": [
+        "paper-toolbar",
+        "paper-icon-button",
+        "iron-icons"
+      ]
+    }
+  },
+  "code": {
+    "less": {
+      "path": "css",
+      "files": [
+        "*"
+      ]
+    },
+    "html": {
+      "path": "html",
+      "files": [
+        "*"
+      ]
+    },
+    "js": {
+      "files": [
+        "index.js"
+      ]
+    }
+  }
+}

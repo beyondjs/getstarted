@@ -1,0 +1,16 @@
+{
+  "page": {
+    "route": "react",
+    "dependencies": {
+      "react": "React",
+      "react-dom": "ReactDom"
+    }
+  },
+  "code": {
+    "js": {
+      "files": [
+        "index.js"
+      ]
+    }
+  }
+}

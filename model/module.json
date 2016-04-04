@@ -1,0 +1,10 @@
+{
+  "code": {
+    "js": {
+      "files": [
+        "index.js"
+      ]
+    }
+  },
+  "server": "actions"
+}
