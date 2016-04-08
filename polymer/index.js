@@ -20,4 +20,8 @@ function Page() {
         if (done) done();
     };
 
+    this.hide = function () {
+        $container.hide();
+    };
+
 }
