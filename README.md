@@ -3,4 +3,4 @@ Easy development of integrated state-of-the-art technologies, with boosted perfo
 
 ## About this package
 This package is the Getting Started code of `BeyondJS`.
-To know more about it, please [follow this link](https://github.com/socites/beyond).
+To know more about it, please [follow this link](https://github.com/socites/beyond/blob/master/getting-started.md).
